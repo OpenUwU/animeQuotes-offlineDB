@@ -1,0 +1,29 @@
+{
+  "name": "Rozen Maiden",
+  "anilistId": 64,
+  "totalQuotes": 4,
+  "totalCharacters": 2,
+  "lastUpdated": "2025-08-20T15:30:56.054Z",
+  "quotes": [
+    {
+      "id": "quote_1985_1755682098985",
+      "character": "Shinku",
+      "quote": "The world is full of choices unseen. With the willingness to notice, anyone can choose a world of their very own, from an infinity of choices."
+    },
+    {
+      "id": "quote_1986_1755682098985",
+      "character": "Kirakishou",
+      "quote": "My heart is a cold cage where lies a person far more than my self, with an eye that can see the truth but reflects nothing, a cold stare from a distant person that use to know how to smile."
+    },
+    {
+      "id": "quote_1987_1755682098985",
+      "character": "Shinku",
+      "quote": "This is what's inside your heart right now. A sky that has become this lovely, will not always remain sunny. There will be times when rain will fall and storms will carry on. The scenery will change, but if it is left alone, it will stay changed forever. For that, you must continue to fight, because that is to live. To live is to fight."
+    },
+    {
+      "id": "quote_1018_1755700879772",
+      "character": "Shinku",
+      "quote": "In the eyes of the weak, everyone is strong. But I am truly strong."
+    }
+  ]
+}
