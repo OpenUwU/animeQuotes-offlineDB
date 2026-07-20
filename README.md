@@ -1,5 +1,7 @@
 # animeQuotes-offlineDB
 
+> **Note:** Commit history was reset in July 2026. The previous 1,000+ commits — nearly all quote additions — inflated the repo's activity in a way that could look misleading or fake to anyone browsing my GitHub profile. History was squashed for a cleaner, more honest picture. All code and data are unaffected.
+
 A community-maintained JSON database of anime quotes, used as the data source for anime quote widgets and APIs.
 
 ---
