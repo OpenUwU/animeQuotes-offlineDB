@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9218,
-  "totalAnime": 722,
-  "totalCharacters": 2290,
-  "lastUpdated": "2026-09-20T12:31:10.526Z",
+  "totalQuotes": 9222,
+  "totalAnime": 723,
+  "totalCharacters": 2291,
+  "lastUpdated": "2026-09-20T12:38:48.982Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4316,6 +4316,12 @@
       "name": "Nani made nara Koroseru",
       "anilistId": 189113,
       "totalQuotes": 1,
+      "totalCharacters": 1
+    },
+    {
+      "name": "Oni no Hanayome",
+      "anilistId": 194219,
+      "totalQuotes": 4,
       "totalCharacters": 1
     },
     {
