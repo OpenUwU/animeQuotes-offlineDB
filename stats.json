@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9213,
-  "totalAnime": 721,
-  "totalCharacters": 2287,
-  "lastUpdated": "2026-09-20T12:29:55.954Z",
+  "totalQuotes": 9218,
+  "totalAnime": 722,
+  "totalCharacters": 2290,
+  "lastUpdated": "2026-09-20T12:31:10.526Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4185,6 +4185,12 @@
       "anilistId": 111993,
       "totalQuotes": 8,
       "totalCharacters": 5
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "anilistId": 113415,
+      "totalQuotes": 5,
+      "totalCharacters": 3
     },
     {
       "name": "Yaojing Zhongzhi Shouce",
