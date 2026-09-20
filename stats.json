@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9228,
-  "totalAnime": 724,
-  "totalCharacters": 2295,
-  "lastUpdated": "2026-09-20T13:02:50.549Z",
+  "totalQuotes": 9232,
+  "totalAnime": 725,
+  "totalCharacters": 2298,
+  "lastUpdated": "2026-09-20T13:07:50.333Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4167,6 +4167,12 @@
       "anilistId": 104348,
       "totalQuotes": 1,
       "totalCharacters": 1
+    },
+    {
+      "name": "Enen no Shouboutai",
+      "anilistId": 105310,
+      "totalQuotes": 4,
+      "totalCharacters": 3
     },
     {
       "name": "Eden*",
