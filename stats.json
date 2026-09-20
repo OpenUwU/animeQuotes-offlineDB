@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9207,
-  "totalAnime": 720,
-  "totalCharacters": 2285,
-  "lastUpdated": "2026-09-20T12:29:07.137Z",
+  "totalQuotes": 9213,
+  "totalAnime": 721,
+  "totalCharacters": 2287,
+  "lastUpdated": "2026-09-20T12:29:55.954Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4101,6 +4101,12 @@
       "anilistId": 100641,
       "totalQuotes": 1,
       "totalCharacters": 1
+    },
+    {
+      "name": "Tensei Shitara Slime Datta Ken",
+      "anilistId": 101280,
+      "totalQuotes": 6,
+      "totalCharacters": 2
     },
     {
       "name": "Vinland Saga",
