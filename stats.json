@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9232,
-  "totalAnime": 725,
-  "totalCharacters": 2298,
-  "lastUpdated": "2026-09-20T13:07:50.333Z",
+  "totalQuotes": 9238,
+  "totalAnime": 726,
+  "totalCharacters": 2300,
+  "lastUpdated": "2026-09-20T13:07:56.958Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4071,6 +4071,12 @@
       "anilistId": 98659,
       "totalQuotes": 1,
       "totalCharacters": 1
+    },
+    {
+      "name": "Tate no Yuusha no Nariagari",
+      "anilistId": 99263,
+      "totalQuotes": 6,
+      "totalCharacters": 2
     },
     {
       "name": "Takane to Hana",
