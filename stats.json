@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9238,
+  "totalQuotes": 9239,
   "totalAnime": 726,
   "totalCharacters": 2300,
-  "lastUpdated": "2026-09-20T13:07:56.958Z",
+  "lastUpdated": "2026-09-20T13:10:48.840Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -3889,7 +3889,7 @@
     {
       "name": "My Hero Academia",
       "anilistId": 21459,
-      "totalQuotes": 10,
+      "totalQuotes": 11,
       "totalCharacters": 4
     },
     {
