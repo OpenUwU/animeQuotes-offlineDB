@@ -1,9 +1,9 @@
 {
   "name": "Death Parade",
   "anilistId": 20931,
-  "totalQuotes": 15,
+  "totalQuotes": 16,
   "totalCharacters": 6,
-  "lastUpdated": "2026-02-28T13:47:47.304Z",
+  "lastUpdated": "2026-09-20T12:58:35.169Z",
   "quotes": [
     {
       "id": "quote_5_1772286467304",
@@ -79,6 +79,11 @@
       "id": "quote_1837_1772286467304",
       "character": "Decim",
       "quote": "Life really is a mysterious thing. Each and every life spins its own, totally separate tale, yet they become intricately entwined in each other. And no one knows how they will end up."
+    },
+    {
+      "id": "quote_9223_1789909115169",
+      "character": "Tatsumi",
+      "quote": "It's only obvious that the world is a cruel place. If you can't change the world, then you have to change yourself!"
     }
   ]
 }

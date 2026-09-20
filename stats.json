@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9222,
+  "totalQuotes": 9223,
   "totalAnime": 723,
   "totalCharacters": 2291,
-  "lastUpdated": "2026-09-20T12:38:48.982Z",
+  "lastUpdated": "2026-09-20T12:58:35.185Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -3583,7 +3583,7 @@
     {
       "name": "Death Parade",
       "anilistId": 20931,
-      "totalQuotes": 15,
+      "totalQuotes": 16,
       "totalCharacters": 6
     },
     {
