@@ -1,0 +1,34 @@
+{
+  "name": "Kimetsu no Yaiba",
+  "anilistId": 101922,
+  "totalQuotes": 5,
+  "totalCharacters": 4,
+  "lastUpdated": "2026-09-20T13:02:50.536Z",
+  "quotes": [
+    {
+      "id": "quote_9224_1789909370536",
+      "character": "Shinobu Kocho",
+      "quote": "I may be the only swords-lady among the pillars who can’t cut a demon’s head off. But anyone who creates poison that can kill demons can be quite amazing."
+    },
+    {
+      "id": "quote_9225_1789909370536",
+      "character": "Tanjiro Kamado",
+      "quote": "Use your head not just your spirit. Think think think."
+    },
+    {
+      "id": "quote_9226_1789909370536",
+      "character": "Tanjiro Kamado",
+      "quote": "Work at it. All I can do is work hard! That’s the story of my life!"
+    },
+    {
+      "id": "quote_9227_1789909370536",
+      "character": "Giyu Tomioka",
+      "quote": "The weak have no rights or choices. Their only fate is to be relentlessly crushed by the strong!"
+    },
+    {
+      "id": "quote_9228_1789909370536",
+      "character": "Muzan Kibutsuji",
+      "quote": "There is a demon who escaped my control, just like Tamayo. Find her and put an end to her. You are the only one I can ask."
+    }
+  ]
+}
