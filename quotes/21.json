@@ -1,9 +1,9 @@
 {
   "name": "ONE PIECE",
   "anilistId": 21,
-  "totalQuotes": 229,
+  "totalQuotes": 230,
   "totalCharacters": 41,
-  "lastUpdated": "2026-02-28T13:51:29.835Z",
+  "lastUpdated": "2026-09-21T15:15:21.809Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1149,6 +1149,11 @@
       "id": "quote_8145_1772286689835",
       "character": "Usopp",
       "quote": "*after his \"\"5 ton's hammer\"\" breaks* Of course it was fake! I can't lift five tons! I quit after five pounds!"
+    },
+    {
+      "id": "quote_9241_1790003721809",
+      "character": "Brook",
+      "quote": "What keeps me alive in this world is neither bodily organs nor muscles, it’s my soul."
     }
   ]
 }
