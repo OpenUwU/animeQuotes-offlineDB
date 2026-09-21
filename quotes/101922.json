@@ -1,9 +1,9 @@
 {
   "name": "Kimetsu no Yaiba",
   "anilistId": 101922,
-  "totalQuotes": 5,
-  "totalCharacters": 4,
-  "lastUpdated": "2026-09-20T13:02:50.536Z",
+  "totalQuotes": 6,
+  "totalCharacters": 5,
+  "lastUpdated": "2026-09-21T14:45:45.444Z",
   "quotes": [
     {
       "id": "quote_9224_1789909370536",
@@ -29,6 +29,11 @@
       "id": "quote_9228_1789909370536",
       "character": "Muzan Kibutsuji",
       "quote": "There is a demon who escaped my control, just like Tamayo. Find her and put an end to her. You are the only one I can ask."
+    },
+    {
+      "id": "quote_9240_1790001945444",
+      "character": "Sabito",
+      "quote": "I will make you never Forget the Secret Techniques Urokodaki has taught you."
     }
   ]
 }
