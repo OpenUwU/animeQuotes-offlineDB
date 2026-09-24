@@ -1,9 +1,9 @@
 {
   "name": "ONE PIECE",
   "anilistId": 21,
-  "totalQuotes": 230,
-  "totalCharacters": 41,
-  "lastUpdated": "2026-09-21T15:15:21.809Z",
+  "totalQuotes": 231,
+  "totalCharacters": 42,
+  "lastUpdated": "2026-09-24T13:33:04.167Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1154,6 +1154,11 @@
       "id": "quote_9241_1790003721809",
       "character": "Brook",
       "quote": "What keeps me alive in this world is neither bodily organs nor muscles, it’s my soul."
+    },
+    {
+      "id": "quote_9242_1790256784167",
+      "character": "Kyros",
+      "quote": "This pain is nothing when compared to the pain I’ve received in the past 12 years."
     }
   ]
 }
