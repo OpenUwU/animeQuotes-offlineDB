@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9242,
-  "totalAnime": 726,
-  "totalCharacters": 2302,
-  "lastUpdated": "2026-09-24T13:33:04.212Z",
+  "totalQuotes": 9248,
+  "totalAnime": 727,
+  "totalCharacters": 2304,
+  "lastUpdated": "2026-09-24T19:18:41.091Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4233,6 +4233,12 @@
       "anilistId": 120376,
       "totalQuotes": 1,
       "totalCharacters": 1
+    },
+    {
+      "name": "Horimiya",
+      "anilistId": 124080,
+      "totalQuotes": 6,
+      "totalCharacters": 2
     },
     {
       "name": "Monster",
