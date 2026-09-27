@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9254,
-  "totalAnime": 728,
-  "totalCharacters": 2307,
-  "lastUpdated": "2026-09-25T17:02:06.074Z",
+  "totalQuotes": 9260,
+  "totalAnime": 729,
+  "totalCharacters": 2309,
+  "lastUpdated": "2026-09-27T17:39:25.352Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4227,6 +4227,12 @@
       "anilistId": 116005,
       "totalQuotes": 1,
       "totalCharacters": 1
+    },
+    {
+      "name": "Tokyo Revengers",
+      "anilistId": 120120,
+      "totalQuotes": 6,
+      "totalCharacters": 2
     },
     {
       "name": "Subarashiki Kono Sekai",
