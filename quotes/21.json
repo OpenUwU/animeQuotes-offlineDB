@@ -1,9 +1,9 @@
 {
   "name": "ONE PIECE",
   "anilistId": 21,
-  "totalQuotes": 231,
+  "totalQuotes": 232,
   "totalCharacters": 42,
-  "lastUpdated": "2026-09-24T13:33:04.167Z",
+  "lastUpdated": "2026-09-27T19:34:37.588Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1159,6 +1159,11 @@
       "id": "quote_9242_1790256784167",
       "character": "Kyros",
       "quote": "This pain is nothing when compared to the pain I’ve received in the past 12 years."
+    },
+    {
+      "id": "quote_9261_1790537677587",
+      "character": "Marshall D. Teach",
+      "quote": "Let the heavens deal with life and death, even the most fearful lose to that… let’s live for another moment."
     }
   ]
 }

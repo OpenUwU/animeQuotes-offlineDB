@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9260,
-  "totalAnime": 729,
-  "totalCharacters": 2309,
-  "lastUpdated": "2026-09-27T17:39:25.352Z",
+  "totalQuotes": 9266,
+  "totalAnime": 730,
+  "totalCharacters": 2311,
+  "lastUpdated": "2026-09-27T20:03:25.694Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -49,7 +49,7 @@
     {
       "name": "ONE PIECE",
       "anilistId": 21,
-      "totalQuotes": 231,
+      "totalQuotes": 232,
       "totalCharacters": 42
     },
     {
@@ -4293,6 +4293,12 @@
       "anilistId": 150202,
       "totalQuotes": 6,
       "totalCharacters": 4
+    },
+    {
+      "name": "Ore dake Level Up na Ken",
+      "anilistId": 151807,
+      "totalQuotes": 5,
+      "totalCharacters": 2
     },
     {
       "name": "Nanatsu no Taizai",
