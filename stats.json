@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9266,
+  "totalQuotes": 9267,
   "totalAnime": 730,
-  "totalCharacters": 2311,
-  "lastUpdated": "2026-09-27T20:03:25.694Z",
+  "totalCharacters": 2312,
+  "lastUpdated": "2026-09-29T19:02:36.152Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -49,8 +49,8 @@
     {
       "name": "ONE PIECE",
       "anilistId": 21,
-      "totalQuotes": 232,
-      "totalCharacters": 42
+      "totalQuotes": 233,
+      "totalCharacters": 43
     },
     {
       "name": "School Rumble",

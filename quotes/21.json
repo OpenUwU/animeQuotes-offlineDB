@@ -1,9 +1,9 @@
 {
   "name": "ONE PIECE",
   "anilistId": 21,
-  "totalQuotes": 232,
-  "totalCharacters": 42,
-  "lastUpdated": "2026-09-27T19:34:37.588Z",
+  "totalQuotes": 233,
+  "totalCharacters": 43,
+  "lastUpdated": "2026-09-29T19:02:36.125Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1164,6 +1164,11 @@
       "id": "quote_9261_1790537677587",
       "character": "Marshall D. Teach",
       "quote": "Let the heavens deal with life and death, even the most fearful lose to that… let’s live for another moment."
+    },
+    {
+      "id": "quote_9267_1790708556124",
+      "character": "Jinbe",
+      "quote": "It is a sadtruththat greater the authority a person possesses, the more he tends tofearchange."
     }
   ]
 }
