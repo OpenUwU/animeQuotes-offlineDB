@@ -1,9 +1,9 @@
 {
   "name": "Kimetsu no Yaiba",
   "anilistId": 101922,
-  "totalQuotes": 6,
+  "totalQuotes": 7,
   "totalCharacters": 5,
-  "lastUpdated": "2026-09-21T14:45:45.444Z",
+  "lastUpdated": "2026-09-30T16:37:58.461Z",
   "quotes": [
     {
       "id": "quote_9224_1789909370536",
@@ -34,6 +34,11 @@
       "id": "quote_9240_1790001945444",
       "character": "Sabito",
       "quote": "I will make you never Forget the Secret Techniques Urokodaki has taught you."
+    },
+    {
+      "id": "quote_9268_1790786278461",
+      "character": "Sabito",
+      "quote": "Go further! If you’re a man. If you call yourself a man! There’s no other way to go but forward!"
     }
   ]
 }
