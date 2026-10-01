@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9270,
+  "totalQuotes": 9271,
   "totalAnime": 730,
-  "totalCharacters": 2313,
-  "lastUpdated": "2026-10-01T10:02:49.226Z",
+  "totalCharacters": 2314,
+  "lastUpdated": "2026-10-01T15:19:37.719Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -3889,8 +3889,8 @@
     {
       "name": "My Hero Academia",
       "anilistId": 21459,
-      "totalQuotes": 11,
-      "totalCharacters": 4
+      "totalQuotes": 12,
+      "totalCharacters": 5
     },
     {
       "name": "Tanaka-kun wa Itsumo Kedaruge",

@@ -1,8 +1,8 @@
 {
   "name": "My Hero Academia",
   "anilistId": 21459,
-  "totalQuotes": 11,
-  "totalCharacters": 4,
+  "totalQuotes": 12,
+  "totalCharacters": 5,
   "quotes": [
     {
       "id": "quote_2143_1755682142142",
@@ -58,7 +58,12 @@
       "id": "quote_9239_1789909848824",
       "character": "Shigaraki Tomura",
       "quote": "You Heroes pretend to be society’s guardians. For generations, you pretended not to see those you couldn’t protect and swept their pain under the rug. It’s tainted everything you’ve built. That means your system’s all rotten from the inside with maggots crawling out. It all builds up, little by little, over time. You’ve got the common trash, all too dependent on being protected. And the brave guardians who created the trash that need coddling. It’s a corrupt, vicious cycle. Everything I’ve witnessed, this whole system you’ve built has always rejected me. Now I’m ready to reject it. That’s why I destroy. That’s why I took this power for myself."
+    },
+    {
+      "id": "quote_9271_1790867977692",
+      "character": "Toga Himiko",
+      "quote": "Listen Ochaco, when I think about the people I love it makes me wanna become them. This desire to take all their blood for myself gushes up till I just can’t stand it. I get all emotional just thinking about it. That’s how I am, but other people aren’t like that. It’s so hard for me to live like this."
     }
   ],
-  "lastUpdated": "2026-09-20T13:10:48.824Z"
+  "lastUpdated": "2026-10-01T15:19:37.693Z"
 }
