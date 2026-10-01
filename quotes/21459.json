@@ -1,8 +1,8 @@
 {
   "name": "My Hero Academia",
   "anilistId": 21459,
-  "totalQuotes": 12,
-  "totalCharacters": 5,
+  "totalQuotes": 13,
+  "totalCharacters": 6,
   "quotes": [
     {
       "id": "quote_2143_1755682142142",
@@ -63,7 +63,12 @@
       "id": "quote_9271_1790867977692",
       "character": "Toga Himiko",
       "quote": "Listen Ochaco, when I think about the people I love it makes me wanna become them. This desire to take all their blood for myself gushes up till I just can’t stand it. I get all emotional just thinking about it. That’s how I am, but other people aren’t like that. It’s so hard for me to live like this."
+    },
+    {
+      "id": "quote_9272_1790873161726",
+      "character": "Dabi",
+      "quote": "Quite worthy of being an instructor at U.A. Ain’t that right, hero? Is it cuz your students are so precious? Hope you got what it takes to protect them… See ya later."
     }
   ],
-  "lastUpdated": "2026-10-01T15:19:37.693Z"
+  "lastUpdated": "2026-10-01T16:46:01.726Z"
 }
