@@ -1,9 +1,9 @@
 {
   "name": "ONE PIECE",
   "anilistId": 21,
-  "totalQuotes": 233,
+  "totalQuotes": 234,
   "totalCharacters": 43,
-  "lastUpdated": "2026-09-29T19:02:36.125Z",
+  "lastUpdated": "2026-10-01T10:02:49.204Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1169,6 +1169,11 @@
       "id": "quote_9267_1790708556124",
       "character": "Jinbe",
       "quote": "It is a sadtruththat greater the authority a person possesses, the more he tends tofearchange."
+    },
+    {
+      "id": "quote_9270_1790848969203",
+      "character": "Roronoa Zoro",
+      "quote": "If I lose to someone as pitiful as you, with such a small injury… my fate is already sealed."
     }
   ]
 }
