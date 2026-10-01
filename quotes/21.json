@@ -1,9 +1,9 @@
 {
   "name": "ONE PIECE",
   "anilistId": 21,
-  "totalQuotes": 234,
+  "totalQuotes": 235,
   "totalCharacters": 43,
-  "lastUpdated": "2026-10-01T10:02:49.204Z",
+  "lastUpdated": "2026-10-01T19:10:02.186Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1174,6 +1174,11 @@
       "id": "quote_9270_1790848969203",
       "character": "Roronoa Zoro",
       "quote": "If I lose to someone as pitiful as you, with such a small injury… my fate is already sealed."
+    },
+    {
+      "id": "quote_9275_1790881802186",
+      "character": "Roronoa Zoro",
+      "quote": "I’m going to be the world’s greatest swordsman! All I have left is my destiny! My name may be infamous…but it’s gonna shake the world!"
     }
   ]
 }

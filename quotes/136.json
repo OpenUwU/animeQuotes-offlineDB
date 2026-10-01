@@ -1,9 +1,9 @@
 {
   "name": "Hunter X Hunter",
   "anilistId": 136,
-  "totalQuotes": 34,
+  "totalQuotes": 35,
   "totalCharacters": 16,
-  "lastUpdated": "2025-08-21T12:17:25.648Z",
+  "lastUpdated": "2026-10-01T18:12:28.823Z",
   "quotes": [
     {
       "id": "quote_887_1755663472986",
@@ -174,6 +174,11 @@
       "id": "quote_16_1755778645648",
       "character": "Kurapika",
       "quote": "I do not fear death. I fear only that my rage will fade over time.\r\n"
+    },
+    {
+      "id": "quote_9274_1790878348823",
+      "character": "Kurapika",
+      "quote": "There are two things that collectors always want. The first is any item of extreme rarity. The second is colleagues to whom they can brag about theircollection."
     }
   ]
 }
