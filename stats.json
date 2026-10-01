@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9272,
+  "totalQuotes": 9273,
   "totalAnime": 730,
   "totalCharacters": 2315,
-  "lastUpdated": "2026-10-01T16:46:01.740Z",
+  "lastUpdated": "2026-10-01T17:43:38.042Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4135,7 +4135,7 @@
     {
       "name": "Kimetsu no Yaiba",
       "anilistId": 101922,
-      "totalQuotes": 7,
+      "totalQuotes": 8,
       "totalCharacters": 5
     },
     {
