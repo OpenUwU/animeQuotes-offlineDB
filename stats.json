@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9268,
+  "totalQuotes": 9269,
   "totalAnime": 730,
-  "totalCharacters": 2312,
-  "lastUpdated": "2026-09-30T16:37:58.475Z",
+  "totalCharacters": 2313,
+  "lastUpdated": "2026-09-30T20:28:23.039Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -2089,8 +2089,8 @@
     {
       "name": "Steins;Gate",
       "anilistId": 9253,
-      "totalQuotes": 39,
-      "totalCharacters": 6
+      "totalQuotes": 40,
+      "totalCharacters": 7
     },
     {
       "name": "Hanasaku Iroha",

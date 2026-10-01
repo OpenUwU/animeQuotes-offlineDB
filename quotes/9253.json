@@ -1,9 +1,9 @@
 {
   "name": "Steins;Gate",
   "anilistId": 9253,
-  "totalQuotes": 39,
-  "totalCharacters": 6,
-  "lastUpdated": "2025-08-20T15:34:51.256Z",
+  "totalQuotes": 40,
+  "totalCharacters": 7,
+  "lastUpdated": "2026-09-30T20:28:23.020Z",
   "quotes": [
     {
       "id": "quote_1615_1755682004332",
@@ -199,6 +199,11 @@
       "id": "quote_79_1755704091256",
       "character": "Kurisu Makise",
       "quote": "[after kissing Okabe] There was a scientific rationale for that! Because... important memories, including, but not limited to, one's first kiss, are stored in the hippocampus, which makes them harder to forget. So I figured... "
+    },
+    {
+      "id": "quote_9269_1790800103020",
+      "character": "Rintaro Okabe",
+      "quote": "99% of perception that normal humans have are closed off. Those who don’t think of themselves are quite foolish beings."
     }
   ]
 }
