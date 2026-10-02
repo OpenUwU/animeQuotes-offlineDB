@@ -1,9 +1,9 @@
 {
   "name": "ONE PIECE",
   "anilistId": 21,
-  "totalQuotes": 235,
+  "totalQuotes": 236,
   "totalCharacters": 43,
-  "lastUpdated": "2026-10-01T19:10:02.186Z",
+  "lastUpdated": "2026-10-02T11:56:00.450Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1179,6 +1179,11 @@
       "id": "quote_9275_1790881802186",
       "character": "Roronoa Zoro",
       "quote": "I’m going to be the world’s greatest swordsman! All I have left is my destiny! My name may be infamous…but it’s gonna shake the world!"
+    },
+    {
+      "id": "quote_9281_1790942160450",
+      "character": "Eustass Kid",
+      "quote": "Compared to the “righteous” greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born."
     }
   ]
 }
