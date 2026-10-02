@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9275,
-  "totalAnime": 730,
-  "totalCharacters": 2315,
-  "lastUpdated": "2026-10-01T19:10:02.201Z",
+  "totalQuotes": 9280,
+  "totalAnime": 731,
+  "totalCharacters": 2316,
+  "lastUpdated": "2026-10-02T08:03:07.563Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4113,6 +4113,12 @@
       "anilistId": 101280,
       "totalQuotes": 6,
       "totalCharacters": 2
+    },
+    {
+      "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "anilistId": 101291,
+      "totalQuotes": 5,
+      "totalCharacters": 1
     },
     {
       "name": "Vinland Saga",
