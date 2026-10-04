@@ -1,9 +1,9 @@
 {
   "name": "Hunter X Hunter",
   "anilistId": 136,
-  "totalQuotes": 35,
+  "totalQuotes": 36,
   "totalCharacters": 16,
-  "lastUpdated": "2026-10-01T18:12:28.823Z",
+  "lastUpdated": "2026-10-04T13:58:55.434Z",
   "quotes": [
     {
       "id": "quote_887_1755663472986",
@@ -179,6 +179,11 @@
       "id": "quote_9274_1790878348823",
       "character": "Kurapika",
       "quote": "There are two things that collectors always want. The first is any item of extreme rarity. The second is colleagues to whom they can brag about theircollection."
+    },
+    {
+      "id": "quote_9285_1791122335434",
+      "character": "Gon Freecss",
+      "quote": "If you’re willing to do whatever it takes, I won’t hold back."
     }
   ]
 }

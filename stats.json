@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9284,
+  "totalQuotes": 9285,
   "totalAnime": 731,
   "totalCharacters": 2318,
-  "lastUpdated": "2026-10-04T10:08:30.667Z",
+  "lastUpdated": "2026-10-04T13:58:55.447Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -259,7 +259,7 @@
     {
       "name": "Hunter X Hunter",
       "anilistId": 136,
-      "totalQuotes": 35,
+      "totalQuotes": 36,
       "totalCharacters": 16
     },
     {
