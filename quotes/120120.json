@@ -1,9 +1,9 @@
 {
   "name": "Tokyo Revengers",
   "anilistId": 120120,
-  "totalQuotes": 6,
+  "totalQuotes": 7,
   "totalCharacters": 2,
-  "lastUpdated": "2026-09-27T17:39:25.337Z",
+  "lastUpdated": "2026-10-04T18:46:55.925Z",
   "quotes": [
     {
       "id": "quote_9255_1790530765337",
@@ -34,6 +34,11 @@
       "id": "quote_9260_1790530765337",
       "character": "Takemichi Hanagaki",
       "quote": "When it comes to the desire to save tachibana, I won’t lose to Naoto."
+    },
+    {
+      "id": "quote_9286_1791139615925",
+      "character": "Takemichi Hanagaki",
+      "quote": "I have to fight. I can’t run away."
     }
   ]
 }

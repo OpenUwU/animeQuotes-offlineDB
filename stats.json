@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9285,
+  "totalQuotes": 9286,
   "totalAnime": 731,
   "totalCharacters": 2318,
-  "lastUpdated": "2026-10-04T13:58:55.447Z",
+  "lastUpdated": "2026-10-04T18:46:55.946Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4237,7 +4237,7 @@
     {
       "name": "Tokyo Revengers",
       "anilistId": 120120,
-      "totalQuotes": 6,
+      "totalQuotes": 7,
       "totalCharacters": 2
     },
     {
