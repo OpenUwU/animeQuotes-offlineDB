@@ -1,9 +1,9 @@
 {
   "name": "ONE PIECE",
   "anilistId": 21,
-  "totalQuotes": 236,
+  "totalQuotes": 237,
   "totalCharacters": 43,
-  "lastUpdated": "2026-10-02T11:56:00.450Z",
+  "lastUpdated": "2026-10-04T07:15:42.198Z",
   "quotes": [
     {
       "id": "quote_3083_1755663660339",
@@ -1184,6 +1184,11 @@
       "id": "quote_9281_1790942160450",
       "character": "Eustass Kid",
       "quote": "Compared to the “righteous” greed of the rulers, the criminals of the world seem much more honorable. When scum rules the world, only more scum is born."
+    },
+    {
+      "id": "quote_9283_1791098142198",
+      "character": "Roronoa Zoro",
+      "quote": "If I die here, then I’m a man that could only make it this far."
     }
   ]
 }

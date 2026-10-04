@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9282,
+  "totalQuotes": 9283,
   "totalAnime": 731,
   "totalCharacters": 2317,
-  "lastUpdated": "2026-10-02T15:17:36.864Z",
+  "lastUpdated": "2026-10-04T07:15:42.214Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -49,7 +49,7 @@
     {
       "name": "ONE PIECE",
       "anilistId": 21,
-      "totalQuotes": 236,
+      "totalQuotes": 237,
       "totalCharacters": 43
     },
     {
