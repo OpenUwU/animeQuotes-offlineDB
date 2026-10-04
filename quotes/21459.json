@@ -1,8 +1,8 @@
 {
   "name": "My Hero Academia",
   "anilistId": 21459,
-  "totalQuotes": 13,
-  "totalCharacters": 6,
+  "totalQuotes": 14,
+  "totalCharacters": 7,
   "quotes": [
     {
       "id": "quote_2143_1755682142142",
@@ -68,7 +68,12 @@
       "id": "quote_9272_1790873161726",
       "character": "Dabi",
       "quote": "Quite worthy of being an instructor at U.A. Ain’t that right, hero? Is it cuz your students are so precious? Hope you got what it takes to protect them… See ya later."
+    },
+    {
+      "id": "quote_9284_1791108510649",
+      "character": "Izuku Midoriya",
+      "quote": "A smiling, dependable, cool hero…That’s what I wanna be! That’s why I’m giving it everything. For everyone!"
     }
   ],
-  "lastUpdated": "2026-10-01T16:46:01.726Z"
+  "lastUpdated": "2026-10-04T10:08:30.649Z"
 }
