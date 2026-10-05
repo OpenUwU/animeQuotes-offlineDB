@@ -1,9 +1,9 @@
 {
   "name": "Kimetsu no Yaiba",
   "anilistId": 101922,
-  "totalQuotes": 9,
-  "totalCharacters": 6,
-  "lastUpdated": "2026-10-02T15:17:36.846Z",
+  "totalQuotes": 10,
+  "totalCharacters": 7,
+  "lastUpdated": "2026-10-05T13:46:17.218Z",
   "quotes": [
     {
       "id": "quote_9224_1789909370536",
@@ -49,6 +49,11 @@
       "id": "quote_9282_1790954256846",
       "character": "Yoriichi Tsugikuni",
       "quote": "Brother your dream was to become the strongest samurai in the country, right? I want to be like you as well. I want to become the second strongest samurai in the country."
+    },
+    {
+      "id": "quote_9287_1791207977218",
+      "character": "Zenitsu Agatsuma",
+      "quote": "Don’t ever give up. Even if it’s painful, even if it’s agonizing, don’t try to take the easy way out."
     }
   ]
 }

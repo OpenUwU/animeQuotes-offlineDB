@@ -1,8 +1,8 @@
 {
-  "totalQuotes": 9286,
+  "totalQuotes": 9287,
   "totalAnime": 731,
-  "totalCharacters": 2318,
-  "lastUpdated": "2026-10-04T18:46:55.946Z",
+  "totalCharacters": 2319,
+  "lastUpdated": "2026-10-05T13:46:17.234Z",
   "anime": [
     {
       "name": "Cowboy Bebop",
@@ -4141,8 +4141,8 @@
     {
       "name": "Kimetsu no Yaiba",
       "anilistId": 101922,
-      "totalQuotes": 9,
-      "totalCharacters": 6
+      "totalQuotes": 10,
+      "totalCharacters": 7
     },
     {
       "name": "Golden Time",
